@@ -1,3 +1,15 @@
-body{
-    background-color: red;
+.header{
+    background-color: #1B1212;
+    .navbar-nav{
+        .nav-item{
+            padding: 0 35px;
+            .nav-link{
+                color: #ec2d9e;
+                font-size: 20px;
+                font-weight: 600;
+            }:hover{
+                color: #67cbe2;
+            }
+        }
+    }
 }
